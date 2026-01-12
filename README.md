@@ -4,7 +4,7 @@
 
 # Python Fundamentals - Primeiros Passos
 
-Repositório **iniciante** com **exercícios práticos** e **projetos reais** em **Python 3.11**. De **hello world** a **APIs FastAPI + Pandas** para **Data Science**.[attached_file:1]
+Repositório **iniciante** com **exercícios práticos** e **projetos reais** em **Python 3.11**. De **hello world** a **APIs FastAPI + Pandas** para **Data Science**.
 
 ## 🚀 Roadmap de Aprendizado
 
@@ -155,8 +155,6 @@ Stack:PythonFastAPIPandas
 2. **Crie a estrutura sugerida** com os exemplos
 3. **Adicione requirements.txt** e rode os testes
 4. **Commit**: `git add . && git commit -m "Add professional Python README + FastAPI demo"`
-
-Seu repo de **Python iniciante** ficará **profissional** com **benchmarks reais**, **API executável** e **roadmap claro**! 🎯[1]
 
 
 Autor: Matheus Felipe Braga | Java Backend @ Prodemge | UTFPR Pós Java
