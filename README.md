@@ -149,12 +149,5 @@ Memória: 45MB (dataset 1M)
 Stack:PythonFastAPIPandas
 
 
-## Como Usar
-
-1. **Copie este README.md** no repositório `python/`
-2. **Crie a estrutura sugerida** com os exemplos
-3. **Adicione requirements.txt** e rode os testes
-4. **Commit**: `git add . && git commit -m "Add professional Python README + FastAPI demo"`
-
 
 Autor: Matheus Felipe Braga | Java Backend @ Prodemge | UTFPR Pós Java
